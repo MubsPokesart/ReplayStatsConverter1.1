@@ -1,0 +1,229 @@
+THEYCALLMERADU:
+Donphan: Earthquake
+Whimsicott: 
+Victini: 
+
+PQS:
+Clefable: 
+Heatran: 
+Sableye: Will-O-Wisp / Metal Burst / Recover / Foul Play
+
+PQS:
+Thundurus: 
+Charizard: 
+Landorus-Therian: Superpower
+
+THEYCALLMERADU:
+Tyranitar: 
+Charizard: 
+Venusaur: Charm / Giga Drain
+
+PQS:
+Charizard: 
+Greninja: Hydro Cannon
+Kyurem-Black: 
+
+THEYCALLMERADU:
+Rhyperior: 
+Charizard: 
+Porygon-Z: 
+
+PQS:
+Charizard: Substitute / Dragon Dance / Outrage
+Greninja: 
+Kyurem-Black: 
+
+THEYCALLMERADU:
+Sableye: 
+Heatran: Rock Tomb / Earth Power
+Togekiss: 
+
+ALUKITE38:
+Charizard: 
+Gyarados: Crunch / Outrage
+Meloetta: 
+
+STABLEPRINCE 聖:
+Jirachi: 
+Greninja: Dark Pulse / Hydro Cannon
+Charizard: 
+
+ALUKITE38:
+Meloetta: 
+Charizard: Endure / Dragon Dance / Outrage
+Slowbro: 
+
+STABLEPRINCE 聖:
+Charizard: 
+Greninja: 
+Porygon-Z: Hyper Beam
+
+STABLEPRINCE 聖:
+Mawile: Play Rough
+Chansey: 
+Registeel: 
+
+ALUKITE38:
+Togekiss: 
+Charizard: 
+Venusaur: Charm
+
+STABLEPRINCE 聖:
+Gallade: Bulk Up
+Serperior: 
+Jirachi: 
+
+ALUKITE38:
+Metagross: Meteor Mash / Bullet Punch
+Greninja: 
+Charizard: 
+
+ALUKITE36:
+Gardevoir: Icy Wind
+Lopunny: 
+Talonflame: 
+
+STABLEPRINCE 聖:
+Genesect: 
+Tyranitar: 
+Togekiss: Thunder Wave / Air Slash
+
+ALUKITE36:
+Donphan: 
+Charizard: Will-O-Wisp / Dragon Dance / Flare Blitz
+Gardevoir: 
+
+STABLEPRINCE 聖:
+Greninja: 
+Altaria: Dragon Dance
+Victini: 
+
+ALUKITE36:
+Gyarados: 
+Victini: 
+Gengar: Protect / Shadow Ball
+
+STABLEPRINCE 聖:
+Gallade: Rock Tomb
+Serperior: 
+Jirachi: 
+
+ALUKITE36:
+Togekiss: 
+Gyarados: 
+Heatran: Flash Cannon
+
+STABLEPRINCE 聖:
+Rhyperior: 
+Charizard: 
+Porygon-Z: Uproar
+
+PQS:
+Entei: Endure / Extreme Speed
+Sylveon: 
+Landorus: 
+
+STABLEPRINCE 聖:
+Jirachi: 
+Greninja: Hydro Cannon / Dark Pulse
+Charizard: 
+
+PQS:
+Heatran: 
+Mawile: 
+Meloetta: 
+
+STABLEPRINCE 聖:
+Rhyperior: Earthquake
+Charizard: 
+Porygon-Z: 
+
+PQS:
+Slaking: 
+Charizard: Dragon Dance / Outrage
+Gardevoir: 
+
+STABLEPRINCE 聖:
+Victini: Bolt Strike
+Gyarados: 
+Gardevoir: 
+
+PQS:
+Lopunny: Fake Out / High Jump Kick
+Mawile: 
+Greninja: 
+
+STABLEPRINCE 聖:
+Mawile: 
+Registeel: 
+Crustle: Counter
+
+MUBS:
+Gengar: 
+Mawile: 
+Blastoise: Rock Tomb / Dragon Pulse
+
+STABLEPRINCE:
+Jirachi: 
+Greninja: 
+Charizard: Outrage
+
+STABLEPRINCE:
+Mawile: 
+Chansey: 
+Registeel: Iron Defense / Rest
+
+MUBS:
+Venusaur: 
+Diancie: 
+Entei: Sacred Fire
+
+STABLEPRINCE:
+Dragonite: 
+Togekiss: 
+Landorus-Therian: Superpower
+
+MUBS:
+Volcanion: 
+Gardevoir: 
+Tyranitar: 
+
+STABLEPRINCE:
+Greninja: 
+Altaria: Roost / Dragon Dance / Earthquake
+Victini: 
+
+MUBS:
+Kyurem-Black: 
+Victini: Zen Headbutt
+Hoopa-Unbound: 
+
+FUTURE ASHES BURN:
+Garchomp: Outrage
+Mawile: 
+Meloetta: 
+
+STABLEPRINCE 聖:
+Jirachi: 
+Greninja: Substitute / Hydro Cannon
+Charizard: 
+
+FUTURE ASHES BURN:
+Garchomp: 
+Mawile: Play Rough
+Meloetta: 
+
+STABLEPRINCE 聖:
+Altaria: 
+Charizard: Dragon Dance / Flare Blitz
+Meloetta: 
+
+FUTURE ASHES BURN:
+Mawile: 
+Charizard: 
+Gyarados: Dragon Dance / Waterfall
+
+STABLEPRINCE 聖:
+Meloetta: 
+Aggron: 
+Garchomp: Swords Dance / Rock Tomb / Earthquake

@@ -1,0 +1,15 @@
+Clefable \ Heatran \ Sableye	Charizard	4
+Thundurus \ Charizard \ Landorus-Therian	Greninja	3
+Charizard \ Greninja \ Kyurem-Black	Heatran	2
+Charizard \ Greninja \ Kyurem-Black	Kyurem-Black	2
+Entei \ Sylveon \ Landorus	Mawile	2
+Heatran \ Mawile \ Meloetta	Clefable	1
+Slaking \ Charizard \ Gardevoir	Entei	1
+Lopunny \ Mawile \ Greninja	Gardevoir	1
+ 	Landorus	1
+ 	Landorus-Therian	1
+ 	Lopunny	1
+ 	Meloetta	1
+ 	Sableye	1
+ 	Slaking	1
+ 	Sylveon	1
